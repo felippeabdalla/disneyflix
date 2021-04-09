@@ -104,6 +104,7 @@ header nav a:hover{
     height: 50%;
     width: 50%;
     display: block;
+    transition: .5s ease all;
 }
 
 .carrosel-filmes {
@@ -113,3 +114,6 @@ header nav a:hover{
 .carrosel-filmes2 {
     margin-top: 5px;
 }
+
+.box-filme:hover{
+    transform: scale(1.1);
