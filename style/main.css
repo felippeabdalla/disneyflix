@@ -52,7 +52,7 @@ header nav a:hover{
 
 .filme-principal{
     font-style: 16px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/wanda-capa.jpg');
+    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('https://felippeabdalla.github.io/disneyflix/img/wanda-capa.jpg');
     background-size:cover;
     height: 550px;
     display: flex;
